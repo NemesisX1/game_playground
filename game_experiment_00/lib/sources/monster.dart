@@ -13,7 +13,4 @@ class Monster extends SpriteAnimationComponent with KeyboardHandler {
     // TODO: implement update
     super.update(dt);
   }
-
-  @override
-  runder(Canvas canvas) {}
 }
